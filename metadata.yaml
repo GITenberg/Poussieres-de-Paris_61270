@@ -1,5 +1,8 @@
 _repo: Poussieres-de-Paris_61270
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61270-h/images/cover.jpg
 creator:
   author:
     agent_name: Lorrain, Jean
@@ -14,6 +17,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Jean_Lorrain
     - https://en.wikipedia.org/wiki/Jean_Lorrain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61270#Poussieres-de-Paris
 gutenberg_bookshelf:
 - FR Villes
 - FR Chroniques
