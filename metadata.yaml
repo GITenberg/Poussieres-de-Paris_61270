@@ -1,0 +1,35 @@
+_repo: Poussieres-de-Paris_61270
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lorrain, Jean
+    aliases:
+    - Duval, Paul Alexandre Martin
+    - Lorrain, J. (Jean)
+    birthdate: 1855
+    deathdate: 1906
+    gutenberg_agent_id: '41171'
+    url: http://www.gutenberg.org/2009/agents/41171
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jean_Lorrain
+    - https://en.wikipedia.org/wiki/Jean_Lorrain
+description: ''
+gutenberg_bookshelf:
+- FR Villes
+- FR Chroniques
+- FR Nouveautés
+gutenberg_issued: '2020-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61270'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, French -- Correspondence'
+- !lcc 'PQ'
+- !lcsh 'Paris (France) -- Intellectual life'
+- GITenberg
+title: Poussières de Paris
+url: http://www.gutenberg.org/ebooks/61270
